@@ -1,0 +1,8 @@
+sealed class A permits B, C 
+{
+
+}
+
+
+
+this allows only B, and C to inherit.
